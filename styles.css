@@ -1,0 +1,15 @@
+select {
+  /* background-color: #0c80f3; */
+  border: 2px solid blue;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+#root, p{
+  margin-left:10px;
+}
